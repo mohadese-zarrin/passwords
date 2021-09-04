@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "passwords",
+    "slug": "passwords",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "passwords"
+}
